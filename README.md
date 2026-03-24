@@ -130,13 +130,14 @@ Net Growth = New Followers - Unfollows
 ```
 Tesla-Social-Media-Analytics/
 │
-├── data/
-│   └── tesla_social_data.xlsx
+├── Project File/
+│   └── Tesla Social Media Analytics Completed Project.xlsx
 │
-├── screenshots/
-│   ├── engagement_chart.png
-│   ├── growth_chart.png
-│   └── scatter_plot.png
+├── Charts Images/
+│   ├── ad spend vs follower growth.png
+│   ├── Average Clicks.png
+|   ├── engagement vs ad spend.png
+│   └── engagement uplift.png
 │
 └── README.md
 ```
